@@ -61,7 +61,7 @@ rs.next();
 <a href="./notice.jsp">목록</a>
 </body>
 </html>
-
+ 
 <%
 rs.close();
 stmt.close();
