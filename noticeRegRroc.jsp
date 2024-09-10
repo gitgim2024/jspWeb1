@@ -31,7 +31,7 @@ pstmt.setString(1, title);
 pstmt.setString(2, content);
 pstmt.executeUpdate();
 
-response.sendRedirect("notice.jsp");
+//response.sendRedirect("notice.jsp");
 
 %>
 
